@@ -1,4 +1,4 @@
 # BASE-LEARN
 Code
 
-addresbook taruh di newcontracts
+addresbook taruh di folder utils untuk newcontracts
