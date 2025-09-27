@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 
 // Importing the SillyStringUtils library
-import "../utils/SillyStringUtils.sol";
+import "./utils/SillyStringUtils.sol";
 
 pragma solidity ^0.8.23;
 
@@ -32,4 +32,5 @@ contract ImportsExercise {
         newHaiku.line3 = newHaiku.line3.shruggie();
         return newHaiku;
     }
+
 }
